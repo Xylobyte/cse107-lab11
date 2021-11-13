@@ -1,0 +1,5 @@
+To generate a histogram of the scores found in the file we can use the following code:
+1. Open the file and use the readscores module to read the scores into a list of dictionaries.
+2. Isolate the score from the dictionary and use the histogram module of matplotlib.pyplot to generate a histogram of the scores.
+3. Label the Title, x-axis label, and y-axis label. Also apply an outline to the bars.
+4. Display the histogram.
